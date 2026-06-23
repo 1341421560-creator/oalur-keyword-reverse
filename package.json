@@ -1,0 +1,8 @@
+{
+  "name": "oalur-keyword-reverse",
+  "version": "1.0.0",
+  "description": "从 Oalur 产品筛选页抓取新品，反推搜索关键词",
+  "dependencies": {
+    "puppeteer-core": "^22.15.0"
+  }
+}

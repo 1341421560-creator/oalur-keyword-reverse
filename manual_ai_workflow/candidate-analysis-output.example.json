@@ -1,0 +1,27 @@
+{
+  "products": [
+    {
+      "asin": "B0GFD6V3MY",
+      "candidateAnalysis": [
+        {
+          "keyword": "rodent repellent",
+          "role": "core_product",
+          "intentFit": 0.95,
+          "isBrand": false,
+          "isIngredient": false,
+          "isSpec": false,
+          "reason": "Main product use case and matches the pest repellent category."
+        },
+        {
+          "keyword": "peppermint oil",
+          "role": "ingredient",
+          "intentFit": 0.35,
+          "isBrand": false,
+          "isIngredient": true,
+          "isSpec": false,
+          "reason": "Ingredient or scent, not the main product demand."
+        }
+      ]
+    }
+  ]
+}

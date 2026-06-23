@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "asin": "B0GFD6V3MY",
+      "title": "Peppermint Oil Rodent Repellent Balls for Indoor Outdoor Mouse Repellent",
+      "categories": [
+        "Patio, Lawn & Garden > Pest Control > Repellents",
+        "Patio, Lawn & Garden > Gardening > Pest Control > Repellents"
+      ],
+      "candidates": [
+        {
+          "keyword": "rodent repellent",
+          "volume": 106254,
+          "matchType": "exact"
+        },
+        {
+          "keyword": "peppermint oil",
+          "volume": 776654,
+          "matchType": "exact"
+        }
+      ]
+    }
+  ]
+}
